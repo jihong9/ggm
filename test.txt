@@ -1,0 +1,7 @@
+lsldkkjd
+dkkdlks
+djfdlsjkf
+sdkjkl
+git config --global user.name "jihong9"
+dfda djkldlkdlk
+git config --global user.email "ggm.s220119@ggh.goe.go.kr"
